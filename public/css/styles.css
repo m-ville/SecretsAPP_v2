@@ -1,0 +1,54 @@
+
+body {
+  /* background-color: #E8ECEF; */
+  background-color: #393E46;
+  color: #fff;
+}
+
+.jumbotron {
+    padding-top: 200px;
+    background-color: #393E46;
+    text-align: center;
+}
+.btn-container{
+  margin: 3rem auto;
+}
+.secret_container{
+  background-color: #FD7014;
+  font-size: 1.5rem;
+  color: #fff;
+  padding: 2.5rem;
+  border-radius: 15px;
+  text-align: left;
+  margin: 5rem auto;
+}
+
+.secret-text {
+  font-size: 1.25rem;
+}
+.btn-dark{
+  background-color: black;
+  padding: 10px;
+}
+.fa-key{
+  color: black
+}
+.form-group {
+  color: black;
+}
+.btn-google,.btn-facebook{
+  margin: 2rem auto;
+}
+.btn-dark{
+  font-size: 1.3rem;
+  padding: 10px 1.25rem ;
+}
+
+.secrets_home {
+   color: #eaf6f6;
+ }
+ .secrets_home:hover {
+   color: #FD7014;
+   text-decoration: none;
+   transition: linear;
+ }
